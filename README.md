@@ -115,7 +115,8 @@ configurations of kernels and other parameters).<br><br>
 <br>
 
 ### Some Intermediate Prediction Results 
-![image](https://github.com/arjit06/Human-Activity-Recognition/assets/108218688/133fb314-5246-49d9-9820-7d77a1c6cc90)
+![image](https://github.com/arjit06/Human-Activity-Recognition/assets/108218688/5bf2de41-c3f6-47c7-8ef4-802735982d7e) 
+
 <br><br>
 
 
